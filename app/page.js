@@ -14,7 +14,7 @@ export default function Home() {
           <h1
             className={` ${fredoka.className} md:w-1/2 w-10/12 text-white text-3xl md:text-6xl mb-6 text-center`}
           >
-            Do'stlaringiz bilan eng maroqli vaqtingizni biz bilan yarating
+            Do&apos;stlaringiz bilan eng maroqli vaqtingizni biz bilan yarating
           </h1>
           <Button>Buy Now</Button>
         </div>

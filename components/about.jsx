@@ -32,7 +32,7 @@ const About = () => {
             </li>
             <li className="flex gap-3">
               <CheckCheck className="text-main-color" />
-              O'yin kulgu tadbirlari
+              O&apos;yin kulgu tadbirlari
             </li>
           </ul>
         </div>
@@ -48,7 +48,7 @@ const About = () => {
             Boshqa xizmatlar:
             <li className="flex gap-3">
               <CheckCheck className="text-main-color" />
-              Xayriya jamg'armalari
+              Xayriya jamg&apos;armalari
             </li>
             <li className="flex gap-3">
               <CheckCheck className="text-main-color" />
